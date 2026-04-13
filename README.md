@@ -1,4 +1,4 @@
 # MiPrimerRepo
 Mi primer repositorio :)
 
-Mi priomera contribucion local para Githu
+Mi priomera contribucion local para Github
